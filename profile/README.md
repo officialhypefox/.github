@@ -1,5 +1,5 @@
 ## Company 💼
-Name: **Hypefox Studios** (full name: **Hypefox Studios LTD**)
+Name: **Hypefox Studios** (full name: **Hypefox Studios LTD**)  
 Registration: **000-000-000** (pending)
 ## About us ⚙️
 - 🙋‍♀️ We entertain the world with amazing game servers, apps, and software. We also provide valuable services to both companies and consumers.
