@@ -1,6 +1,11 @@
 ## Company 💼
-Name: **Hypefox Studios** (full name: **Hypefox Studios LTD**)  
-Registration: **000-000-000** (pending)
+**Hypefox Studios LTD**
+27 Old Gloucester Street
+LONDON
+WC1N 3AX
+GREAT BRITAIN
+
+Company number **14423502**
 ## About us ⚙️
 - 🙋‍♀️ We entertain the world with amazing game servers, apps, and software. We also provide valuable services to both companies and consumers.
 - 🌈 Most of our repositories are private (to protect our source code), but feel free to contribute to our public repositiories. We would love that!
