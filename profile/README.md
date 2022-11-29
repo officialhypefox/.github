@@ -1,11 +1,14 @@
 ## Company 💼
 **Hypefox Studios LTD**  
 27 Old Gloucester Street  
-LONDON  
-WC1N 3AX  
-GREAT BRITAIN  
-  
-Company number **14423502**
+London, WC1N 3AX  
+United Kingdom
+
+Want to get in touch?
+Drop us an [email](mailto:contact@hypefoxstudios.com).
+We would love to chat with you.
+
+Company number **14423502**. Registered in England and Wales.
 ## About us ⚙️
 - 🙋‍♀️ We entertain the world with amazing game servers, apps, and software. We also provide valuable services to both companies and consumers.
 - 🌈 Most of our repositories are private (to protect our source code), but feel free to contribute to our public repositiories. We would love that!
