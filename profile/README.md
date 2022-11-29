@@ -4,7 +4,9 @@
 London, WC1N 3AX  
 United Kingdom
 
-Our [website](https://hypefoxstudios.com "Home | Hypefox Studios")
+On our [website](https://hypefoxstudios.com "Home | Hypefox Studios"), you can find more information about our projects and services as well as what we do.  
+From there, you can also create and/or log in to your **Hypefox ID** account and view or update its information.  
+**Hypefox ID** is used to log in to our projects and services as well as integrated third-party applications.
 
 Company number **14423502**. Registered in England and Wales.
 ## About us ⚙️
