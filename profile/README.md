@@ -15,6 +15,6 @@ Company number **14423502**. Registered in England and Wales.
 - 👩‍💻 If you want to get in touch with us, drop us an [email](mailto:contact@hypefoxstudios.com). We would love to chat with you!
 - 🍿 Most of our team is based in Sweden.
 ## Projects and solutions ⚙️
-- 🎮 [Ironsight RP](https://ironsightrp.net "Home | Ironsight RP") - The modern roleplay server.
-- 🖥️ [Trident](https://trident.host "Home | Trident") - Hosting services with quality.
-- 🎮 [SkyShade](https://skyshade.net "Home | SkyShade") - A world of fun.
+- 🖥️ [TridentNodes](https://tridentnodes.com "Home | TridentNodes") - Highly reliable, powerful, and affordable cloud solutions.
+- 🎮 [Ironsight RP](https://hypefoxstudios.com/soon "Home | Ironsight RP") - The modern roleplay server.
+- 🎮 [SkyShade](https://hypefoxstudios.com/soon "Home | SkyShade") - A world of fun.
