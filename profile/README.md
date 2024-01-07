@@ -15,6 +15,5 @@ Company number **14423502**. England and Wales. Registered with ICO under refere
 - 👩‍💻 If you want to get in touch with us, drop us an [email](mailto:contact@hypefoxstudios.com). We would love to chat with you!
 - 🍿 Most of our team is based in Sweden.
 ## Projects and solutions ⚙️
+- 🖥️ [SentryByte](https://sentrybyte.co "Home | SentryByte") - Free, fully DDoS-protected, and reliable hosting for applications and bots.
 - 🖥️ [Melonslab](https://melonslab.cloud "Home | Melonslab") - Highly reliable, powerful, and affordable cloud solutions.
-- 🎮 [Ironsight RP](https://hypefoxstudios.com/soon "Home | Ironsight RP") - The modern roleplay server.
-- 🎮 [SkyShade](https://hypefoxstudios.com/soon "Home | SkyShade") - A Minecraft network full of fun.
