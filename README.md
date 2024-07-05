@@ -1,2 +1,2 @@
-# Hypefox-Studios
+# officialhypefox
 GitHub profile config files.
