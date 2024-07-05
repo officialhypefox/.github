@@ -1,10 +1,10 @@
 ## Company 💼
-**Hypefox Studios Ltd**  
+**Hypefox Ltd**  
 27 Old Gloucester Street  
 London, WC1N 3AX  
 United Kingdom
 
-On our [website](https://hypefoxstudios.com "Home | Hypefox Studios"), you can find more information about our projects and services as well as what we do.  
+On our [website](https://hypefox.net "Home | Hypefox Studios"), you can find more information about our projects and services as well as what we do.  
 From there, you can also create and/or log in to your **Hypefox ID** account and view or update its information.  
 **Hypefox ID** is used to log in to our projects and services as well as integrated third-party applications.
 
@@ -15,5 +15,4 @@ Company number **14423502**. England and Wales. Registered with ICO under refere
 - 👩‍💻 If you want to get in touch with us, drop us an [email](mailto:contact@hypefoxstudios.com). We would love to chat with you!
 - 🍿 Most of our team is based in Sweden.
 ## Projects and solutions ⚙️
-- 🖥️ [SentryByte](https://sentrybyte.co "Home | SentryByte") - Free, fully DDoS-protected, and reliable hosting for applications and bots.
 - 🖥️ [Melonslab](https://melonslab.cloud "Home | Melonslab") - Highly reliable, powerful, and affordable cloud solutions.
