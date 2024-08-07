@@ -1,3 +1,5 @@
+![Hypefox Studios logo](https://cdn.hypefox.net/data/hypefox/img/branding/logo/light.png)
+
 ## Company 💼
 **Hypefox Ltd**  
 27 Old Gloucester Street  
