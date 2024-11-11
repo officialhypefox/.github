@@ -11,7 +11,7 @@ We are an IT startup with the following as our main priorities:
   - Added security with [CrowdSec](https://www.crowdsec.net/), which also helps us contribute to their threat intelligence and build a more secure internet.
   - Enforcing RPKI & IRR for enhanced BGP security, which creates a more secure and robust network.
   - Latest security tech, such as TLS 1.3, QUIC (HTTP/3), DNSSEC, HSTS, advanced DDoS mitigation & WAF.
-  - Authentication using physical security keys; self-destruct if 3 failed PIN attempts.
+  - Authentication using physical [Ledger](https://www.ledger.com/) keys; self-destruct if 3 failed PIN attempts.
   - We always keep the software we run up-to-date.
   - Strong measures to protect customer data.
   - Automatic kernel patching on our servers.
@@ -19,7 +19,7 @@ We are an IT startup with the following as our main priorities:
 - Networking 🌍
   - Only use Ethernet cables with CAT6 or higher.
     - We craft our own cables and test them using a multi-step process.
-    - Shielded connectors and cable stress dampeners.
+      - Shielded connectors and cable stress dampeners.
   - Network infrastructure fully built on IPv6.
     - We actively contribute to the adoption of the IPv6 protocol.
     - Customers are urged to use it whenever possible.
