@@ -22,9 +22,9 @@ We are an IT startup with the following as our main priorities:
       - Shielded connectors and cable stress dampeners.
   - Network infrastructure fully built on IPv6.
     - We actively contribute to the adoption of the IPv6 protocol.
-    - Customers are urged to use it whenever possible.
-      - In the future, we'd like to introduce a program giving customers huge perks if using IPv6 only.
-        - We will also provide guides on how to keep backwards compatibility with IPv4, for example by properly implementing Cloudflare into the stack.
+      - Customers are urged to use it whenever possible.
+        - In the future, we'd like to introduce a program giving customers huge perks if using IPv6 only.
+          - We will also provide guides on how to keep backwards compatibility with IPv4, for example by properly implementing Cloudflare into the stack.
 
 On our [website](https://hypefox.net "Home | Hypefox Studios"), you can find more information about our projects and services as well as what we do.  
 
