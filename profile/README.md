@@ -20,7 +20,7 @@ We are an IT startup with the following as our main priorities:
   - Only use Ethernet cables with CAT6 or higher.
     - We craft our own cables and test them using a multi-step process.
       - Shielded connectors and cable stress dampeners.
-  - Network infrastructure fully built on IPv6.
+  - Network infrastructure built fully using on IPv6.
     - We actively contribute to the adoption of the IPv6 protocol.
       - Customers are urged to use it whenever possible.
         - In the future, we'd like to introduce a program giving customers huge perks if using IPv6 only.
