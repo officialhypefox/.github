@@ -8,9 +8,9 @@ United Kingdom
 
 We are an IT startup with the following as our main priorities:
 - Privacy & security 🔒
-  - Added security with [CrowdSec](https://www.crowdsec.net/), which also helps us contribute to their threat intelligence and build a more secure internet.
+  - Added security with [CrowdSec](https://www.crowdsec.net/); contributing to threat intelligence and helping build a safer internet.
   - Enforcing RPKI & IRR for enhanced BGP security, which creates a more secure and robust network.
-  - Latest security tech, such as TLS 1.3, QUIC (HTTP/3), DNSSEC, HSTS, advanced DDoS mitigation & WAF.
+  - Latest security tech, like TLS 1.3, QUIC (HTTP/3), DNSSEC, HSTS, modern DDoS mitigation & WAF.
   - Authentication using physical [Ledger](https://www.ledger.com/) keys; self-destruct if 3 failed PIN attempts.
   - We always keep the software we run up-to-date.
   - Strong measures to protect customer data.
