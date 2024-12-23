@@ -2,9 +2,7 @@
 
 ## Company 💼
 **Hypefox Ltd**  
-27 Old Gloucester Street  
-London, WC1N 3AX  
-United Kingdom
+Hypefox Studios
 
 We are an IT startup with the following as our main priorities:
 - Privacy & security 🔒
