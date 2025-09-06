@@ -34,3 +34,4 @@ Company number **14423502**. England and Wales. Registered with ICO under refere
 - 🍿 Most of our team is based in Sweden.
 ## Projects and solutions ⚙️
 - 🖥️ [Melonslab](https://melonslab.cloud "Home | Melonslab") - Highly reliable, powerful, and affordable cloud solutions.
+- ❇️ [Velrix](https://velrix.net "Home | Velrix") - Seamless, secure, and free app hosting with DDoS protection included.
