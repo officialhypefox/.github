@@ -1,5 +1,5 @@
-![Hypefox Studios logo](https://cdn.hypefox.net/data/hypefox/img/branding/logo/light.png)
+![Hypefox logo](https://cdn.hypefox.net/data/hypefox-website/img/assets/logo.webp)
 
-## Projects and solutions ⚙️
+## Explore our brands ⚙️
 - 🖥️ [Melonslab](https://melonslab.cloud "Home | Melonslab") - Highly reliable, powerful, and affordable cloud solutions.
 - ❇️ [Velrix](https://velrix.net "Home | Velrix") - Seamless, secure, and free app hosting with DDoS protection included.
