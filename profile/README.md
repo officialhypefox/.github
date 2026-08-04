@@ -62,6 +62,21 @@ Most of what we build is private. The parts that belong to the community are not
 
 We keep our forks merged with upstream rather than letting them drift.
 
+## 🔒 Behind the closed doors
+
+The rest is private, but there is no reason to be cagey about what it is. This is what we actually work on:
+
+| | Repository | Built with |
+| :-- | :-- | :-- |
+| ❇️ | `velrix-front` · the Velrix dashboard | Nuxt 4, Nuxt UI |
+| ❇️ | `velrix-back` · the Velrix API, economy and panel broker | Bun, Hono, Drizzle, PostgreSQL, Redis |
+| ❇️ | `velrix-discord` · the Velrix bot, for people who live in Discord | Bun, discord.js, Sapphire |
+| ❇️ | `velrix-desktop` · desktop app with its own update channel | Electron, Vite |
+| 🍉 | `melonslab-frontend` · the Melonslab storefront | Nuxt 4 |
+| 🦊 | `hypefox-website` · this company, on the web | Nuxt 4, Nuxt UI |
+
+The naming is not consistent yet. `velrix-back` wants to be `velrix-api`, and the two site repos want to be `melonslab-web` and `hypefox-web`. We know.
+
 ## 📮 Getting hold of us
 
 - **Support** · open a ticket from the dashboard of the service you use, or ask in its Discord: [Velrix](https://discord.gg/DWPW4XsWkK), [Melonslab](https://discord.gg/nRRxebJDdT)
