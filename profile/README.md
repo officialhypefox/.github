@@ -72,7 +72,7 @@ The rest is private, but there is no reason to be cagey about what it is. This i
 | ❇️ | `velrix-api` · the Velrix API, economy and panel broker | Bun, Hono, Drizzle, PostgreSQL, Redis |
 | ❇️ | `velrix-discord` · the Velrix bot, for people who live in Discord | Bun, discord.js, Sapphire |
 | ❇️ | `velrix-desktop` · desktop app with its own update channel | Electron, Vite |
-| 🍉 | `melonslab-web` · the Melonslab storefront | Nuxt 4 |
+| 🍉 | `melonslab-web` · the Melonslab landing page | Nuxt 4, Tailwind |
 | 🦊 | `hypefox-web` · this company, on the web | Nuxt 4, Nuxt UI |
 
 ## 📮 Getting hold of us
