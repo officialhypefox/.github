@@ -8,7 +8,7 @@
 
 We operate our own network and put our own brands on top of it. One of them is free, one of them is premium, and the wires underneath are the same.
 
-[![hypefox.net](https://img.shields.io/badge/hypefox.net-101322?style=for-the-badge)](https://www.hypefox.net) [![AS214365](https://img.shields.io/badge/AS214365-HypefoxNet-5808fb?style=for-the-badge)](https://www.peeringdb.com/net/37071) [![Malmö, Sweden](https://img.shields.io/badge/Malmö-Sweden-006AA7?style=for-the-badge)](https://www.hypefox.net)
+[![hypefox.net](https://img.shields.io/badge/hypefox.net-101322?style=for-the-badge)](https://www.hypefox.net) [![AS214365](https://img.shields.io/badge/AS214365-HypefoxNet-5808fb?style=for-the-badge)](https://as214365.peeringdb.com) [![Malmö, Sweden](https://img.shields.io/badge/Malmö-Sweden-006AA7?style=for-the-badge)](https://www.hypefox.net)
 
 </div>
 
@@ -49,7 +49,7 @@ VPS, web hosting and game servers, all of it in Sweden. Full EU data sovereignty
 
 ## 🛰️ The network
 
-Everything runs on **[AS214365](https://www.peeringdb.com/net/37071)**, our own network out of Malmö. Routing, peering and DDoS filtering are ours to fix rather than a vendor's to explain, which is the entire reason we run it ourselves.
+Everything runs on **[AS214365](https://as214365.peeringdb.com)**, our own network out of Malmö. Routing, peering and DDoS filtering are ours to fix rather than a vendor's to explain, which is the entire reason we run it ourselves.
 
 ## 📦 Open source
 
@@ -66,21 +66,21 @@ We keep our forks merged with upstream rather than letting them drift.
 
 The rest is private, but there is no reason to be cagey about what it is. This is what we actually work on:
 
-| | Repository | Built with |
-| :-- | :-- | :-- |
-| ❇️ | `velrix-web` · the Velrix site and dashboard | Nuxt 4, Nuxt UI |
-| ❇️ | `velrix-api` · the Velrix API, economy and panel broker | Bun, Hono, Drizzle, PostgreSQL, Redis |
-| ❇️ | `velrix-discord` · the Velrix bot, for people who live in Discord | Bun, discord.js, Sapphire |
-| ❇️ | `velrix-desktop` · desktop app with its own update channel | Electron, Vite |
-| 🍉 | `melonslab-web` · the Melonslab landing page | Nuxt 4, Tailwind |
-| 🦊 | `hypefox-web` · this company, on the web | Nuxt 4, Nuxt UI |
+| | Repository | What it is | Built with |
+| :-- | :-- | :-- | :-- |
+| ❇️ | `velrix-web` | the Velrix site and dashboard | Nuxt 4, Nuxt UI |
+| ❇️ | `velrix-api` | the Velrix API, economy and panel broker | Bun, Hono, Drizzle, PostgreSQL, Redis |
+| ❇️ | `velrix-discord` | the Velrix bot, for people who live in Discord | Bun, discord.js, Sapphire |
+| ❇️ | `velrix-desktop` | desktop app with its own update channel | Electron, Vite |
+| 🍉 | `melonslab-web` | the Melonslab landing page | Nuxt 4, Tailwind |
+| 🦊 | `hypefox-web` | this company, on the web | Nuxt 4, Nuxt UI |
 
 ## 📮 Getting hold of us
 
 - **Support** · open a ticket from the dashboard of the service you use, or ask in its Discord: [Velrix](https://discord.gg/DWPW4XsWkK), [Melonslab](https://discord.gg/nRRxebJDdT)
 - **Security** · `contact@hypefox.net`, or see [security.txt](https://www.velrix.net/.well-known/security.txt)
 - **Abuse** · `abuse@hypefox.net`
-- **Peering** · [PeeringDB](https://www.peeringdb.com/net/37071)
+- **Peering** · [PeeringDB](https://as214365.peeringdb.com)
 
 <div align="center">
 <br>
